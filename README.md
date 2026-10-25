@@ -58,4 +58,4 @@ ARIA is a multi-agent assistant in n8n. A conductor agent routes requests to spe
 
 ## Author
 
-Tharana · [LinkedIn URL]
+Tharana · (https://www.linkedin.com/in/tharana-azeem-pmi-acp-csm-a210671b/)
